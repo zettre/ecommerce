@@ -1,9 +1,0 @@
-{
-  "name": "ecommerce",
-  "description": "This app does one little thing, and does it well.",
-  "website": "https://stormy-oasis-70649.herokuapp.com/",
-  "repository": "https://github.com/zettre/ecommerce",
-  "logo": "https://small-sharp-tool.com/logo.svg",
-  "success_url": "/welcome",
-  },
- 
